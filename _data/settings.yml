@@ -16,5 +16,3 @@ pagination:
   previous_page: 'Older'
 
 related_posts: 'You may also enjoy...'
-
-post_date_prefix: 'Written on'
