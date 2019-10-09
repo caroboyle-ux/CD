@@ -3,6 +3,6 @@ layout: misc
 title: About
 ---
 
-Hi there! I’m Caroline, i'm a content designer from Leeds.
+Hey I’m Caroline, I'm a Content Designer, DesignOps Manager, and end user advocate. I'm based in Leeds and travel frequently between Manchester, Berlin and London.
 
-Just hire me i'm bloody amazing
+
